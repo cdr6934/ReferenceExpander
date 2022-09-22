@@ -5,6 +5,8 @@ passages and then creates room for each quotation under where the quotation has 
 This will provide a opportunity to ensure that when reading one finds it easier to lookup passages. 
 
 ## API may be required 
+https://api.esv.org/docs/passage-text/
+
 
 ### ESV (Currently in use here but will additional)
 You will need to apply for an ESV API key. 
