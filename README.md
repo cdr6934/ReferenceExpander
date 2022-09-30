@@ -10,3 +10,7 @@ https://api.esv.org/docs/passage-text/
 
 ### ESV (Currently in use here but will additional)
 You will need to apply for an ESV API key. 
+
+
+### Usage for Model annotation 
+* https://prodi.gy/
